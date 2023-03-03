@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header>
       <nav>
-        proshop
+        pros gihop
       </nav>
 
     </header>
